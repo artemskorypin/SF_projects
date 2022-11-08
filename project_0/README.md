@@ -1,17 +1,17 @@
 # Проект 0. Угадай число
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/artemskorypin/DS_game/tree/main/project_0/README.md#Описание-проекта)  
-[2. Какой кейс решаем?](https://github.com/artemskorypin/DS_game/tree/main/project_0/README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](https://github.com/artemskorypin/DS_game/tree/main/project_0/README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](https://github.com/artemskorypin/DS_game/tree/main/project_0/README.md#Этапы-работы-над-проектом)  
-[5. Результат](https://github.com/artemskorypin/DS_game/tree/main/project_0/README.md#Результат)    
-[6. Выводы](https://github.com/artemskorypin/DS_game/tree/main/project_0/README.md#Выводы) 
+[1. Описание проекта](https://github.com/artemskorypin/SF_projects/tree/main/project_0/README.md#Описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/artemskorypin/SF_projects/tree/main/project_0/README.md#Какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/artemskorypin/SF_projects/tree/main/project_0/README.md#Краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/artemskorypin/SF_projects/tree/main/project_0/README.md#Этапы-работы-над-проектом)  
+[5. Результат](https://github.com/artemskorypin/SF_projects/tree/main/project_0/README.md#Результат)    
+[6. Выводы](https://github.com/artemskorypin/SF_projects/tree/main/project_0/README.md#Выводы) 
 
 ### Описание проекта    
 Угадать загаданное компьютером число за минимальное число попыток.
 
-:arrow_up:[к оглавлению](https://github.com/artemskorypin/DS_game/tree/main/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/artemskorypin/SF_projects/tree/main/project_0/README.md#Оглавление)
 
 
 ### Какой кейс решаем?    
@@ -34,17 +34,17 @@
 * На основе базового решения напишем улучшеную версию функции для нашей задачи (угадывание меньше, чем за 20 попыток)
 * Оформим проект соответствующим образом и выложим его на Github
 
-:arrow_up:[к оглавлению](https://github.com/artemskorypin/DS_game/tree/main/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/artemskorypin/SF_projects/tree/main/project_0/README.md#Оглавление)
 
 
 ### Результаты:  
 По итогу работы, новая функция угадывает число в среднем за 4 раза.
 
-:arrow_up:[к оглавлению](https://github.com/artemskorypin/DS_game/tree/main/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/artemskorypin/SF_projects/tree/main/project_0/README.md#Оглавление)
 
 
 ### Выводы:  
 В результате данной работы были полученны основы работы в Github и IDE, опыт в оформлении проектов и написании кода на питон.  
 
-:arrow_up:[к оглавлению](https://github.com/artemskorypin/DS_game/tree/main/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/artemskorypin/SF_projects/tree/main/project_0/README.md#Оглавление)
 
