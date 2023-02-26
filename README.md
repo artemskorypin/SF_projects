@@ -7,3 +7,4 @@ From the [Skillfactory Data Science course](https://skillfactory.ru/data-scienti
 * [Проект BANK](https://github.com/artemskorypin/SF_projects/tree/main/project_bank)
 * [Проект 1. Проект: Анализ резюме из HeadHunter](https://github.com/artemskorypin/SF_projects/tree/main/project_1)
 * [Проект 2. Проект: Анализ резюме из HeadHunter](https://github.com/artemskorypin/SF_projects/tree/main/project_2)
+* [Проект №3 EDA + Feature Engineering Booking.com]()
