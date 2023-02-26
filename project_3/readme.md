@@ -24,7 +24,7 @@
 
 ### Файлы для соревнования
 
-* hotels_train.csv - набор данных для обучения [источник данных](https://github.com/slagovskiy/DST/raw/main/Project-3/data/hotels_train.csv.zip)
+* hotels_train.csv - набор данных для обучения [источник данных](https://github.com/slagovskiy/DST/raw/main/Project-3/data/hotels_train.csv.zip) 
 * hotels_test.csv - набор данных для оценки качества [источник данных](https://github.com/slagovskiy/DST/raw/main/Project-3/data/hotels_train.csv.zip)
 * submission.csv - файл сабмишна в нужном формате [источник данных](https://github.com/slagovskiy/DST/raw/main/Project-3/data/hotels_train.csv.zip)
 
