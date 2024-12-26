@@ -10,4 +10,4 @@ From the [Skillfactory Data Science course](https://skillfactory.ru/data-scienti
 * [Проект №3 EDA + Feature Engineering Booking.com](https://github.com/artemskorypin/SF_projects/tree/main/project_3)
 * [Проект №4 Проект классификация в банковском секторе](https://github.com/artemskorypin/SF_projects/tree/main/project_4)
 * [Проект №5 Проект определить длительность поездки такси](https://github.com/artemskorypin/SF_projects/tree/main/project_5)
-* [Итоговый проект первого года: Corporación Favorita Grocery Sales Forecasting]()
+* [Итоговый проект первого года: Corporación Favorita Grocery Sales Forecasting](https://github.com/artemskorypin/SF_projects/tree/main/total_project)
