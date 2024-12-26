@@ -1,6 +1,6 @@
 # Итоговый проект первого года: Corporación Favorita Grocery Sales Forecasting
 ### Какой кейс решаем?
-Поучавствуем в старом, но актуальном соревновании от Kaggle[источник данных](https://www.kaggle.com/competitions/favorita-grocery-sales-forecasting/data)
+Поучавствуем в старом, но актуальном соревновании от Kaggle [источник данных](https://www.kaggle.com/competitions/favorita-grocery-sales-forecasting/data)
 Бизнес-задача: на основе предложенных данных спрогнозировать необходимое количество товара(ов) для магазина(ов).
 
 ### Описание данных
@@ -52,7 +52,7 @@
 
 ### Файлы для соревнования
 
-* наши данные распологаются здесь[источник данных](https://www.kaggle.com/competitions/favorita-grocery-sales-forecasting/data)
+* наши данные распологаются здесь [источник данных](https://www.kaggle.com/competitions/favorita-grocery-sales-forecasting/data)
 
 **Наш проект включает в себя несколько этапов:**
 * Первичная обработка данных
